@@ -185,7 +185,7 @@ rope==0.17.0
 Rtree==0.9.4
 ruamel-yaml==0.15.87
 scikit-image==0.16.2
-scikit-learn==0.24.0
+scikit-learn
 scipy @ file:///C:/ci/scipy_1592916963468/work
 seaborn==0.10.1
 Send2Trash==1.5.0
